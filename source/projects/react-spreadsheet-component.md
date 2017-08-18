@@ -1,33 +1,22 @@
 ---
-title: Clusterize.js
-repo: NeXTs/Clusterize.js
-direct: https://github.com/NeXTs/Clusterize.js
-homepage: http://nexts.github.io/Clusterize.js/
-examples: http://nexts.github.io/Clusterize.js/
+title: React-Spreadsheet-Component
+repo: felixrieseberg/React-Spreadsheet-Component
+direct: https://github.com/felixrieseberg/React-Spreadsheet-Component
+homepage: https://github.com/felixrieseberg/React-Spreadsheet-Component
+examples: http://felixrieseberg.github.io/React-Spreadsheet-Component/
 license: MIT
-bower: clusterize
-npm: clusterize.js
-technology: Vanilla JS
-author: Denis Lukov
-authorurl: https://github.com/NeXTs
-description: Tiny vanilla JS plugin to display large data sets easily
+technology: React
+author: Felix Rieseberg
+authorurl: https://github.com/felixrieseberg
+description: This is a spreadsheet component built in Facebook's ReactJS.
 ---
 
-The main idea is not to pollute DOM with all used tags. Instead of that - it splits the list to clusters, then shows elements for current scroll position and adds extra rows to top and bottom of the list to emulate full height of table so that browser shows scrollbar as for full list.
-
-#### Features:
-
-* Adaptive virtual scrolling
-* Support for millions of rows
-* Support any tag (table, ul, ol, div...)
-* Support mobiles and tablets
-* Support IE8+
-* Only 1.95K gzip
+This is a spreadsheet component built in Facebook's ReactJS.
 
 #### Preview:
 
-##### Lazy loading
-![Scrolling table](/images/libraries/clusterize/clusterize-js-scrolling-table_example.gif "Scrolling table")
+##### Table preview
+![Scrolling table](/images/libraries/spreadsheet-component-for-react/reactspreadsheet.gif "Table preview")
 
-##### Scroll progress
-![Scrolling progress indicator](/images/libraries/clusterize/clusterize-js-with-progress-bar.png "Scrolling progress indicator")
+##### Grid preview
+![Scrolling progress indicator](/images/libraries/spreadsheet-component-for-react/reactspreadsheet2.gif "Grid preview")
