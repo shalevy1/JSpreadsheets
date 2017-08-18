@@ -1,5 +1,5 @@
 ---
-title: vue-handsontable-official
+title: vue-handsontable
 repo: handsontable/vue-handsontable-official
 direct: https://github.com/handsontable/vue-handsontable-official
 homepage: https://github.com/handsontable/vue-handsontable-official
@@ -44,6 +44,6 @@ vue-handsontable-official creates a <HotTable> component. You can use it just li
 
 #### Preview:
 
-##### Table preview
+##### Handsontable
 ![Scrolling table](/images/libraries/vue-handsontable-official/handsontable.jpg "Table preview")
 

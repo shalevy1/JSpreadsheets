@@ -30,7 +30,7 @@ A spreadsheet component for React.
 
 #### Preview:
 
-##### Table demo
+##### sou-react-table
 ![Scrolling table](/images/libraries/sou-react-table/sou-react-table-prev.png "Table demo")
 
 

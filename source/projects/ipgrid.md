@@ -27,6 +27,6 @@ functionality, but is 100% original hand coded.
 
 #### Preview:
 
-##### Table preview
+##### ipgrid
 ![Scrolling table](/images/libraries/ipgrid/ipgrid-prev.png "Table preview")
 

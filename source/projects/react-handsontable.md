@@ -2,7 +2,7 @@
 title: react-handsontable
 repo: handsontable/react-handsontable
 direct: https://github.com/handsontable/react-handsontable
-homepage: ttps://github.com/handsontable/react-handsontable
+homepage: https://github.com/handsontable/react-handsontable
 examples: https://github.com/handsontable/react-handsontable#examples
 license: MIT
 npm: run build
@@ -44,6 +44,6 @@ react-handsontable creates a <HotTable> component. You can use it just like any 
 
 #### Preview:
 
-##### Table preview
+##### Handsontable
 ![Scrolling table](/images/libraries/react-handsontable/react-handsontable.png "Table preview")
 

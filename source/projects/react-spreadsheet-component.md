@@ -19,7 +19,7 @@ to style each cell differently.
 
 #### Preview:
 
-##### Table preview
+##### React component spreadsheet 
 ![Scrolling table](/images/libraries/spreadsheet-component-for-react/reactspreadsheet.gif "Table preview")
 
 ##### Grid preview
