@@ -2,7 +2,7 @@
 title: react-handsontable
 repo: handsontable/react-handsontable
 direct: https://github.com/handsontable/react-handsontable
-homepage: http://nexts.github.io/Clusterize.js/
+homepage: ttps://github.com/handsontable/react-handsontable
 examples: https://github.com/handsontable/react-handsontable#examples
 license: MIT
 npm: run build
