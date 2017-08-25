@@ -1,9 +1,9 @@
 ---
 title: Grid
 repo: mmurph211/Grid
-direct: http://www.matts411.com/post/grid/
-homepage: http://www.matts411.com/post/grid/
-examples: http://www.matts411.com/static/demos/grid/index.html
+direct: https://github.com/mmurph211/Grid
+homepage: https://github.com/mmurph211/Grid
+examples: https://github.com/mmurph211/Grid
 license: MIT
 bower: n/a
 npm: n/a
