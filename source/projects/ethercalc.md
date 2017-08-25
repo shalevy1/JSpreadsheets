@@ -16,7 +16,12 @@ description: Node.js port of Multi-user SocialCalc.
 
 Your data is saved on the web, and people can edit the same document at the same time. Everybody's changes are instantly reflected on all screens.
 
-Work together on inventories, survey forms, list management, brainstorming sessions and more!
+Work together on inventories, survey forms, list management, brainstorming sessions and more
+
+Server-side code of EtherCalc, Is dedicated into the public domain to encourage integration with content hosting 
+systems, so anybody can set up a collaborative spreadsheet easily. Many people have indeed done so, and you're welcome to join us, too!
+
+
 
 #### Preview:
 
