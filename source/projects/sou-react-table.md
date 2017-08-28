@@ -31,6 +31,6 @@ A spreadsheet component for React.
 #### Preview:
 
 ##### sou-react-table
-![Scrolling table](/images/libraries/sou-react-table/sou-react-table-prev.png "Table demo")
+![Sou-react-table table](/images/libraries/sou-react-table/sou-react-table-prev.png "Sou-react-table demo")
 
 

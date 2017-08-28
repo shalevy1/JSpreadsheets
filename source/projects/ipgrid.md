@@ -53,22 +53,20 @@ functionality, but is 100% original hand coded.
 * Change the size of the sheet matrix
 * Sort a range[s] of cells
 
-
-
 #### Preview:
 
 ##### ipgrid
-![Scrolling table](/images/libraries/ipgrid/ipgrid-prev.png "Table preview")
+![ipgrid table preview](/images/libraries/ipgrid/ipgrid-prev.png "Table preview")
 
 ##### ipgrid copy selection
-![Scrolling table](/images/libraries/ipgrid/ipgrid-copy-selection.png "Copy selection")
+![ipgrid table copy selection](/images/libraries/ipgrid/ipgrid-copy-selection.png "Copy selection")
 
 ##### ipgrid formula assign
-![Scrolling table](/images/libraries/ipgrid/ipgrid-formula-assign.png "Formula assign")
+![ipgrid table formula assign](/images/libraries/ipgrid/ipgrid-formula-assign.png "Formula assign")
 
 ##### ipgrid frozen columns
-![Scrolling table](/images/libraries/ipgrid/ipgrid-frozen-columns.png "Frozen columns")
+![ipgrid table frozen columns](/images/libraries/ipgrid/ipgrid-frozen-columns.png "Frozen columns")
 
 ##### ipgrig group rows
-![Scrolling table](/images/libraries/ipgrid/ipgrid-group-rows.png "Group rows")
+![ipgrid table group rows](/images/libraries/ipgrid/ipgrid-group-rows.png "Group rows")
 
