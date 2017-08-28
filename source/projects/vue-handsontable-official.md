@@ -80,5 +80,5 @@ end-users with an Excel-like experience.
 ![Vue Handsontable context menu](/images/libraries/vue-handsontable-official/vue-handsontable-context-menu.png "Vue Handsontable context menu")
 
 ##### Handsontable fixed rows columns
-![Vue Handsontable fixed rows-columns](/images/libraries/vue-handsontable-official/vue-handsontable-fixed-rows-columns.png "Vuee Handsontable fixed rows-columns")
+![Vue Handsontable fixed rows-columns](/images/libraries/vue-handsontable-official/vue-handsontable-fixed-rows-columns.png "Vue Handsontable fixed rows-columns")
 
