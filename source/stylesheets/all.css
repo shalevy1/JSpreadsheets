@@ -237,7 +237,8 @@ a.logo:hover {
 }
 
 .sheet .ellipsis {
-  width: 250px;
+  max-width: 230px;
+  margin-right: 20px;
   display: inline-block;
   white-space: nowrap;
   overflow: hidden;
@@ -734,6 +735,11 @@ a.logo:hover {
 /* Responsiveness */
 
 @media all and (min-width: 500px) {
+
+  .sheet .ellipsis {
+    max-width: 260px;
+  }
+
     .project {
         float: left;
         width: 48%;
@@ -750,7 +756,13 @@ a.logo:hover {
 }
 
 @media all and (min-width: 800px) {
-    .project {
+
+  .sheet .ellipsis {
+    max-width: 220px;
+  }
+
+
+  .project {
         float: left;
         width: 30%;
         margin: 1%;
