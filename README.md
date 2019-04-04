@@ -1,17 +1,13 @@
 # JSpreadsheets
 
-[JSpreadsheets.com](https://www.jspreadsheets.com), a list of top open source spreadsheets and data grids written in JavaScript.
+[JSpreadsheets.com](https://jspreadsheets.com), a list of the best JavaScript data grids and spreadsheets.
 
-## Running locally
-
+## Running locally (Use Node 6)
+   
     git clone https://github.com/krzysztofspilka/JSpreadsheets.git
-    cd staticgen
+    cd JSpreadsheets
     bundle install
     bundle exec middleman
-
-## Copyrights
-
-JSpreadsheets is created upon StaticGen which is built and maintained by [Netlify](https://www.netlify.com), a hosting and automation service for static websites and apps.
 
 ## License
 This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).

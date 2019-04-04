@@ -334,10 +334,9 @@ a.logo {
 .fa-code-fork {
     color: #2e3039;
 }
-.fa-bug {
+.fa-bug, .fa-comments {
     color: #e65d7a;
 }
-
 .stats li {
     float: left;
     width: 33.3%;
@@ -346,7 +345,6 @@ a.logo {
     padding: 6px;
     line-height: 1.4;
 }
-
 .sheet:after {
     content: "";
     display: table;
