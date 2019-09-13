@@ -273,7 +273,7 @@ Share = (function(_super) {
   };
 
   Share.prototype.inject_icons = function() {
-    return this.inject_stylesheet("https://www.sharebutton.co/fonts/v2/entypo.min.css");
+    // return this.inject_stylesheet("https://www.sharebutton.co/fonts/v2/entypo.min.css");
   };
 
   Share.prototype.inject_fonts = function() {
